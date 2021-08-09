@@ -5,12 +5,12 @@ Manual microscopy has served as a bedrock for diagnosing diseases such as Malari
 
 Based on the openflexure robotic microscope, we are developing a low-cost 3D printable autonomous platform capable of counting blood cell types and detecting parasite infections through the application of machine-learning. The device allows screening of more than 1.5 million red blood cells per minute for infections, which is 120 times faster compared to traditional manual microscopy. The cost of constructing the mini hematology lab is expected to be around 300 USD.
 
-Features:
+**Features:**
 
-Red blood cell count (RBC)
-White blood cell count (WBC)
-Differential white blood cell count
-Platelet count
-Parasite detection (eg Malaria)
-Battery powered (USB)
-Low cost
+* Red blood cell count (RBC)
+* White blood cell count (WBC)
+* Differential white blood cell count
+* Platelet count
+* Parasite detection (eg Malaria)
+* Battery powered (USB)
+* Low cost
