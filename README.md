@@ -1,7 +1,7 @@
 # Mini-hematology-lab
 Open Source Mini Hematology Lab
 
-![Image of Mini hematology lab](https://octodex.github.com/images/yaktocat.png)
+![Image of Mini hematology lab](https://github.com/WOIDMO/Mini-hematology-lab/blob/main/doc/mini_hematology_lab_opt.png?raw=true)
 
 Manual microscopy has served as a bedrock for diagnosing diseases such as Malaria, and direct visual identification of parasites remains the gold standard for numerous diseases. However, this comes at the cost of tedious labor and human errors. Human fatigue has been identified as a crucial factor in reduced efficiency in microscopy based diagnostics. The same technological advancements that will one day lead to self-driving cars is currently mature enough to take over this task.
 
