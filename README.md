@@ -21,7 +21,7 @@ Based on the openflexure robotic microscope, we are developing a low-cost 3D pri
 **Progress:**
 
 * 2021-09-01 Microscope design modifications: done
-* 2021-09-21 Motor controller board design: pending test
+* 2021-10-01 Motor controller board design: done
 * 2021-xx-xx Software for AI hematology: pending
 * 2021-xx-xx Software for AI malaria: pending
 * 2021-xx-xx Documentation: pending
