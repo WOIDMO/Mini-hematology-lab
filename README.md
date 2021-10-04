@@ -27,6 +27,7 @@ Please refer to the [wiki](https://github.com/WOIDMO/Mini-hematology-lab/wiki)
 
 * 2021-09-01 Microscope design modifications: done
 * 2021-10-01 Motor controller board design: done
+* 2021-10-04 Blood staining protocol and started wiki: done
 * 2021-xx-xx Software for AI hematology: pending
 * 2021-xx-xx Software for AI malaria: pending
 * 2021-xx-xx Documentation: pending
