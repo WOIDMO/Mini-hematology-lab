@@ -18,6 +18,11 @@ Based on the openflexure robotic microscope, we are developing a low-cost 3D pri
 * Low cost
 
 
+**Documentation:**
+
+Please refer to the [wiki](https://github.com/WOIDMO/Mini-hematology-lab/wiki) 
+
+
 **Progress:**
 
 * 2021-09-01 Microscope design modifications: done
@@ -25,7 +30,3 @@ Based on the openflexure robotic microscope, we are developing a low-cost 3D pri
 * 2021-xx-xx Software for AI hematology: pending
 * 2021-xx-xx Software for AI malaria: pending
 * 2021-xx-xx Documentation: pending
-
-**Documentation:**
-
-Please refer to the [wiki](https://github.com/WOIDMO/Mini-hematology-lab/wiki) 
