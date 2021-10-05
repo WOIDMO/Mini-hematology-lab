@@ -31,3 +31,9 @@ Please refer to the [wiki](https://github.com/WOIDMO/Mini-hematology-lab/wiki)
 * 2021-xx-xx Software for AI hematology: pending
 * 2021-xx-xx Software for AI malaria: pending
 * 2021-xx-xx Documentation: pending
+
+**Credits:**
+
+The microscope is based on the [OpenFlexure](https://openflexure.org/) project started by Richard Bowman.
+
+It is being extended for field and automated diagnostic use by the [WoIdMo](https://woidmo.org).
