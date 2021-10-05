@@ -34,6 +34,6 @@ Please refer to the [wiki](https://github.com/WOIDMO/Mini-hematology-lab/wiki)
 
 **Credits:**
 
-The microscope is based on the [OpenFlexure](https://openflexure.org/) project started by Richard Bowman.
+The microscope is based on the [OpenFlexure](https://openflexure.org/) project started by Richard Bowman and maintained by the Bath Open INstrumentation Group.
 
-It is being extended for field and automated diagnostic use by the [WoIdMo](https://woidmo.org).
+The microscope is being extended for field and automated diagnostic use by the [WoIdMo](https://woidmo.org).
