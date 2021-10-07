@@ -3,7 +3,7 @@ Open Source Mini Hematology Lab
 
 <img src="https://github.com/WOIDMO/Mini-hematology-lab/blob/main/doc/mini_hematology_lab_opt.png" width="400" height="400">
 
-The use of flow cytometry in developing countries and field laboratories is problematic due to the high cost of the equipment, limited access to servicing and unreliable power. As an alternative to this technique we are developping a deep-learning AI powered microscope for analysis of blood and other samples.
+The use of flow cytometry for common blood analysis in developing countries and field laboratories is problematic due to the high cost of the equipment, limited access to servicing and unreliable power. As an alternative to this technique we are developping a deep-learning AI powered microscope for analysis of blood and other samples.
 
 Manual microscopy has served as a bedrock for many modern diagnostics, including diagnosing diseases such as Malaria. Direct visual identification of blood cells remains the gold standard for numerous diseases. However, this comes at the cost of tedious labor and human errors. Human fatigue has been identified as a crucial factor in reduced efficiency in microscopy based diagnostics. The same technological advancements that will one day lead to self-driving cars is currently mature enough to take over this task.
 
